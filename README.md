@@ -14,5 +14,5 @@ The game matt is designed as a circle with six embedded rhombi segmented by colo
 
 ![Mat](https://github.com/pleteaud/Blind-Aid/blob/main/Mat%20Final%20Design%20Edit.jpg?raw=true)
 
-On the surface of the robotic vehicle are the Sparkfun Redboard, breadboard, battery, and buttons (with patterns on top of it). Using the Piezo speaker (to make sound) and TCS230 Detector (to parse the tape colors), the vehicle will maneuver around the matt searching for the rhombic space corresponding to the selected button. Once the space is found, the robot will stop and make one final sound for the user.
+On the surface of the robotic vehicle are the Sparkfun Redboard, breadboard, battery, and buttons (with patterns on top of it). Using the Piezo speaker (to make sound) and TCS230 Detector (to parse the tape colors), the vehicle will maneuver around the mat searching for the rhombic space corresponding to the selected button. Once the space is found, the robot will stop and make one final sound for the user.
 ![Robot](https://github.com/pleteaud/Blind-Aid/blob/main/Final%20Design%20Layout.jpg?raw=true)
